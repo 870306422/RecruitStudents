@@ -1,0 +1,44 @@
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\bin\Debug\DAL.dll
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\bin\Debug\DAL.pdb
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\bin\Debug\DBHelp.dll
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\bin\Debug\Model.dll
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\bin\Debug\DBHelp.pdb
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\bin\Debug\Model.pdb
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\obj\Debug\DAL.dll
+C:\Users\louis\Desktop\招生项目\ZSPrj\DAL\obj\Debug\DAL.pdb
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\bin\Debug\DAL.dll
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\bin\Debug\DAL.pdb
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\bin\Debug\DBHelp.dll
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\bin\Debug\Model.dll
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\bin\Debug\DBHelp.pdb
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\bin\Debug\Model.pdb
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\obj\Debug\DAL.csproj.CopyComplete
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\obj\Debug\DAL.dll
+F:\实训基地\2021-6-7\招生项目\ZSPrj\DAL\obj\Debug\DAL.pdb
+A:\实训\招生项目\ZSPrj\DAL\bin\Debug\DAL.dll
+A:\实训\招生项目\ZSPrj\DAL\bin\Debug\DAL.pdb
+A:\实训\招生项目\ZSPrj\DAL\bin\Debug\DBHelp.dll
+A:\实训\招生项目\ZSPrj\DAL\bin\Debug\Model.dll
+A:\实训\招生项目\ZSPrj\DAL\bin\Debug\DBHelp.pdb
+A:\实训\招生项目\ZSPrj\DAL\bin\Debug\Model.pdb
+A:\实训\招生项目\ZSPrj\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+A:\实训\招生项目\ZSPrj\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+A:\实训\招生项目\ZSPrj\DAL\obj\Debug\DAL.csproj.CopyComplete
+A:\实训\招生项目\ZSPrj\DAL\obj\Debug\DAL.dll
+A:\实训\招生项目\ZSPrj\DAL\obj\Debug\DAL.pdb
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\bin\Debug\DAL.dll
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\bin\Debug\DAL.pdb
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\bin\Debug\DBHelp.dll
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\bin\Debug\Model.dll
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\bin\Debug\DBHelp.pdb
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\bin\Debug\Model.pdb
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\obj\Debug\DAL.csproj.CopyComplete
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\obj\Debug\DAL.dll
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\DAL\obj\Debug\DAL.pdb

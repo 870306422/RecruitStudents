@@ -1,0 +1,52 @@
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\bin\Debug\BLL.dll
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\bin\Debug\BLL.pdb
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\bin\Debug\DAL.dll
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\bin\Debug\Model.dll
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\bin\Debug\DAL.pdb
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\bin\Debug\Model.pdb
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\obj\Debug\BLL.dll
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\obj\Debug\BLL.pdb
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\bin\Debug\DBHelp.dll
+C:\Users\louis\Desktop\招生项目\ZSPrj\BLL\bin\Debug\DBHelp.pdb
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\bin\Debug\BLL.dll
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\bin\Debug\BLL.pdb
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\bin\Debug\DAL.dll
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\bin\Debug\Model.dll
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\bin\Debug\DBHelp.dll
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\bin\Debug\DAL.pdb
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\bin\Debug\Model.pdb
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\bin\Debug\DBHelp.pdb
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\obj\Debug\BLL.dll
+F:\实训基地\2021-6-7\招生项目\ZSPrj\BLL\obj\Debug\BLL.pdb
+A:\实训\招生项目\ZSPrj\BLL\bin\Debug\BLL.dll
+A:\实训\招生项目\ZSPrj\BLL\bin\Debug\BLL.pdb
+A:\实训\招生项目\ZSPrj\BLL\bin\Debug\DAL.dll
+A:\实训\招生项目\ZSPrj\BLL\bin\Debug\Model.dll
+A:\实训\招生项目\ZSPrj\BLL\bin\Debug\DBHelp.dll
+A:\实训\招生项目\ZSPrj\BLL\bin\Debug\DAL.pdb
+A:\实训\招生项目\ZSPrj\BLL\bin\Debug\Model.pdb
+A:\实训\招生项目\ZSPrj\BLL\bin\Debug\DBHelp.pdb
+A:\实训\招生项目\ZSPrj\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+A:\实训\招生项目\ZSPrj\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+A:\实训\招生项目\ZSPrj\BLL\obj\Debug\BLL.csproj.CopyComplete
+A:\实训\招生项目\ZSPrj\BLL\obj\Debug\BLL.dll
+A:\实训\招生项目\ZSPrj\BLL\obj\Debug\BLL.pdb
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\bin\Debug\BLL.dll
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\bin\Debug\BLL.pdb
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\bin\Debug\DAL.dll
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\bin\Debug\Model.dll
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\bin\Debug\DBHelp.dll
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\bin\Debug\DAL.pdb
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\bin\Debug\Model.pdb
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\bin\Debug\DBHelp.pdb
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\obj\Debug\BLL.csproj.CopyComplete
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\obj\Debug\BLL.dll
+A:\实训\招生项目\新建文件夹 (2)\ZSPrj\BLL\obj\Debug\BLL.pdb
